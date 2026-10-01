@@ -94,7 +94,7 @@ git status --short
   기존 문서 수정: notes/x.md (prerequisites += [[<slug>]])
   새 미작성 링크: [[d]]
   건너뛴 순환: 없음
-검토: git diff   /   되돌리기: git restore --staged --worktree . && git mv notes/<slug>.md "<입력 파일>"
+검토: git diff   /   원본 초안 보기: git show :notes/<slug>.md
 ```
 
 ## 하지 말 것
