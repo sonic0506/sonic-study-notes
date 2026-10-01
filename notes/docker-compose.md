@@ -1,7 +1,8 @@
 ---
 aliases: [Docker Compose, 도커 컴포즈]
 tags: [docker, devops]
-prerequisites: []
+prerequisites:
+  - "[[docker]]"
 related: []
 status: draft
 created: 2026-10-01
