@@ -259,7 +259,7 @@ Container 실행
 
 ## Dockerfile
 
-[[dockerfile|Dockerfile]]은 다음 질문에 대한 답입니다.
+[[docker-dockerfile|Dockerfile]]은 다음 질문에 대한 답입니다.
 
 > "이 애플리케이션의 Docker Image를 어떻게 만들 것인가?"
 

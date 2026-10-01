@@ -148,7 +148,7 @@ Container
 
 # 4. Dockerfile
 
-[[dockerfile|Dockerfile]]은 Docker Image를 만드는 설계도입니다.
+[[docker-dockerfile|Dockerfile]]은 Docker Image를 만드는 설계도입니다.
 
 예를 들어 Node.js 애플리케이션을 Docker로 실행한다고 가정합니다.
 
